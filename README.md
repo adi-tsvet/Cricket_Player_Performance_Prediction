@@ -2,6 +2,6 @@
 Key Skills:
 Machine Learning 
 Python
-Regression
+Multiple Linear Regression
 AIM :
 Predictive Analytics by Machine Learning using python.
